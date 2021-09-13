@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_apod"
+    app:startDestination="@id/carousellFragment">
+
+    <fragment
+        android:id="@+id/carousellFragment"
+        android:name="com.example.carousellnews.view.CarousellNewsFragment"
+        android:label="apodFragment"
+        tools:layout="@layout/fragment_caarousell_news_list" />
+
+</navigation>

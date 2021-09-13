@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Carousell News</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="string_recent">Recent</string>
+    <string name="string_popular">Popular</string>
+</resources>
